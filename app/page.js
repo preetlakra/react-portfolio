@@ -42,13 +42,14 @@ export default function Home() {
       {/* social profiles */}
       <div className='mb-10 xl:mb-16'>
         
+        <button>Helo</button>
         
       </div>
       {/* social profiles */}
 
 
 
-      <p className='pt-20 text-xs xl:text-sm'>© Preet Lakra</p>
+      <p className='pt-20 text-xs xl:text-sm'>2023 © Preet Lakra</p>
 
         
     </main>
