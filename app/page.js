@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import Link from 'next/link'
 
 export default function Home() {
   return (
@@ -20,7 +21,7 @@ export default function Home() {
 
         <h4 className='my-3 xl:text-xl font-semibold'>Framework</h4>
         <ol>
-          <li className='my-4'>Next.js, TailwindCSS, Boostrap.</li>
+          <li className='my-4'>Next.js, TailwindCSS, Bootstrap.</li>
         </ol>
         
         <h4 className='my-3 xl:text-xl font-semibold'>Web-Stack</h4>
@@ -40,7 +41,7 @@ export default function Home() {
 
       {/* social profiles */}
       <div className='mb-10 xl:mb-16'>
-      
+        
         
       </div>
       {/* social profiles */}
