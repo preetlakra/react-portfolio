@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-start pt-20 m-7 xl:mx-96 md:mx-24 ">
+    <main className="flex min-h-screen flex-col items-start pt-16 m-7 xl:mx-96 md:mx-24 ">
       <div className="flex flex-col">
         <h1 className='text-4xl lg:text-6xl lg:mb-3 font-bold'>I'm Preet Lakra.</h1>
         <span className='lg:text-2xl' >Full-Stack Engineer.</span>
