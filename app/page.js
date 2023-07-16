@@ -16,22 +16,22 @@ export default function Home() {
 
         <h4 className='my-3 xl:text-xl font-semibold'>Programming Languages</h4>
         <ol>
-          <li className='my-4'>Javascript, C++, Python.</li>
+          <li className='mt-3'>Javascript, C++, Python.</li>
         </ol>
 
         <h4 className='my-3 xl:text-xl font-semibold'>Framework</h4>
         <ol>
-          <li className='my-4'>Next.js, TailwindCSS, Bootstrap.</li>
+          <li className='mt-3'>Next.js, TailwindCSS, Bootstrap.</li>
         </ol>
         
         <h4 className='my-3 xl:text-xl font-semibold'>Web-Stack</h4>
         <ol>
-          <li className='my-4'>MangoDB, Express.js, React.js, Node.js.</li>
+          <li className='mt-3'>MangoDB, Express.js, React.js, Node.js.</li>
         </ol>
        
         <h4 className='my-3 xl:text-xl font-semibold'>Database</h4>
         <ol>
-          <li className='my-4 '>MySQL,  Firebase,  AWS, MangoDB. </li>
+          <li className='mt-3 '>MySQL,  Firebase,  AWS, MangoDB. </li>
         </ol>
       </div>
       {/* skill section end */}
