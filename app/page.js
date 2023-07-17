@@ -31,7 +31,7 @@ export default function Home() {
        
         <h4 className='mb-1 xl:text-xl font-semibold'>Database</h4>
         <ol>
-          <li className='mb-3 text-gray-400 '>MySQL,  Firebase,  AWS, MangoDB. </li>
+          <li className='mb-3 text-gray-400 '>MySQL, Firebase, MangoDB. </li>
         </ol>
       </div>
       {/* skill section end */}
