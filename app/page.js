@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 
+
 export default function Home() {
   return (
     <main className="flex max-h-screen flex-col items-start pt-14 m-7 xl:mx-96 md:mx-24 ">
@@ -16,7 +17,7 @@ export default function Home() {
 
         <h4 className='mb-1 xl:text-xl font-semibold'>Programming Languages</h4>
         <ol>
-          <li className='mb-3 text-gray-400'>Javascript, C++, Python.</li>
+          <li className='mb-3 text-gray-400'>Javascript, C/C++, Python.</li>
         </ol>
 
         <h4 className='mb-1 xl:text-xl font-semibold'>Framework</h4>
@@ -49,7 +50,7 @@ export default function Home() {
         <button className='bg-white text-black px-2 rounded-lg shadow-md hover:shadow-sky-500  hover:text-sky-500 '><a className=' font-semibold h' href="https://twitter.com/notbeamn">Twitter</a></button>
         
       </div>
-      {/* social profiles */}
+      {/* social profiles */} 
 
       <p className='pt-16 text-xs md:pt-24 '>2023 © Preet Lakra</p>
 
