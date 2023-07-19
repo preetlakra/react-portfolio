@@ -17,7 +17,7 @@ export default function Home() {
 
         <h4 className='mb-1 xl:text-xl font-semibold'>Programming Languages</h4>
         <ol>
-          <li className='mb-3 text-gray-400'>Javascript, C/C++, Python.</li>
+          <li className='mb-3 text-gray-400'>Javascript, Python, C/C++, Java.</li>
         </ol>
 
         <h4 className='mb-1 xl:text-xl font-semibold'>Framework</h4>
