@@ -40,17 +40,23 @@ export default function Home() {
       <p className='text-sm pb-10 pt-4 lg:text-lg'>I specialize in developing responsive user interfaces for web-based applications with a focus 
       on secure and smooth user experience.</p>
 
-      {/* social profiles */}
+      
       <div className='text-sm lg:text-lg py-4 xl:mb-16 flex gap-4'>
         
-        <button className='bg-white text-black px-2 rounded-lg shadow-md hover:shadow-white '><a className='font-semibold h' href="https://github.com/preetlakra">Github</a></button>
+        {/* <button className='bg-white text-black px-2 rounded-lg shadow-md hover:shadow-white '><a className='font-semibold' href="https://github.com/preetlakra">Github</a></button>
 
-        <button className='bg-white text-black px-2 rounded-lg shadow-md hover:shadow-sky-600  hover:text-sky-700 '><a className=' font-semibold h' href="https://www.linkedin.com/in/preetlakra">LinkedIn</a></button>
+        <button className='bg-white text-black px-2 rounded-lg shadow-md hover:shadow-sky-600  hover:text-sky-700 '><a className=' font-semibold' href="https://www.linkedin.com/in/preetlakra">LinkedIn</a></button>
 
-        <button className='bg-white text-black px-2 rounded-lg shadow-md hover:shadow-sky-500  hover:text-sky-500 '><a className=' font-semibold h' href="https://twitter.com/notbeamn">Twitter</a></button>
+        <button className='bg-white text-black px-2 rounded-lg shadow-md hover:shadow-sky-500  hover:text-sky-500 '><a className=' font-semibold' href="https://twitter.com/notbeamn">Twitter</a></button> */}
+        
+        <a href="https://github.com/preetlakra" target="_blank"> <img className='h-8  md:h-10'  src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="linkedin"  /> </a> 
+
+        <a href="https://www.linkedin.com/in/preetlakra/" target="_blank"> <img className='h88 md:h-10' src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin"  /> </a> 
+        
+        <a href="https://twitter.com/notbeamn/" target="_blank"> <img className='h88 md:h-10' src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="twitter" /> </a>
         
       </div>
-      {/* social profiles */} 
+      
 
       <p className='pt-16 text-xs md:pt-24 '>2023 © Preet Lakra</p>
 
