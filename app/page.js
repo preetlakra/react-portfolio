@@ -49,11 +49,11 @@ export default function Home() {
 
         <button className='bg-white text-black px-2 rounded-lg shadow-md hover:shadow-sky-500  hover:text-sky-500 '><a className=' font-semibold' href="https://twitter.com/notbeamn">Twitter</a></button> */}
         
-        <a href="https://github.com/preetlakra" target="_blank"> <img className='h-8  md:h-10'  src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="linkedin"  /> </a> 
+        <a href="https://github.com/preetlakra" target="_blank"> <img className='w-8 lg:w-12'  src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="linkedin"  /> </a> 
 
-        <a href="https://www.linkedin.com/in/preetlakra/" target="_blank"> <img className='h88 md:h-10' src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin"  /> </a> 
+        <a href="https://www.linkedin.com/in/preetlakra/" target="_blank"> <img className='w-8 lg:w-12' src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin"  /> </a> 
         
-        <a href="https://twitter.com/notbeamn/" target="_blank"> <img className='h88 md:h-10' src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="twitter" /> </a>
+        <a href="https://twitter.com/notbeamn/" target="_blank"> <img className='w-8 lg:w-12 py-1' src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="twitter" /> </a>
         
       </div>
       
