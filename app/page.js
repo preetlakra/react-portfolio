@@ -38,7 +38,7 @@ export default function Home() {
       {/* skill section end */}
 
       <p className='text-sm pb-10 pt-4 lg:text-lg'>I specialize in developing responsive user interfaces for web-based applications with a focus 
-      on secure and smooth user experiencee.</p>
+      on secure and smooth user experience.</p>
 
       
       <div className='text-sm lg:text-lg py-4 xl:mb-16 flex gap-4'>
