@@ -58,7 +58,7 @@ export default function Home() {
       </div>
       
 
-      <p className='pt-16 text-xs md:pt-24 '>2023 © Preet Lakra</p>
+      <p className='pt-16 md:pb-4 text-xs md:pt-24 '>2023 © Preet Lakra</p>
 
         
     </main>
