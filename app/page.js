@@ -42,12 +42,7 @@ export default function Home() {
 
       
       <div className='text-sm lg:text-lg py-4 xl:mb-16 flex gap-4'>
-        
-        {/* <button className='bg-white text-black px-2 rounded-lg shadow-md hover:shadow-white '><a className='font-semibold' href="https://github.com/preetlakra">Github</a></button>
-
-        <button className='bg-white text-black px-2 rounded-lg shadow-md hover:shadow-sky-600  hover:text-sky-700 '><a className=' font-semibold' href="https://www.linkedin.com/in/preetlakra">LinkedIn</a></button>
-
-        <button className='bg-white text-black px-2 rounded-lg shadow-md hover:shadow-sky-500  hover:text-sky-500 '><a className=' font-semibold' href="https://twitter.com/notbeamn">Twitter</a></button> */}
+          
         
         <a href="https://github.com/preetlakra" target="_blank"> <img className='w-8 lg:w-12'  src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="linkedin"  /> </a> 
 
