@@ -48,7 +48,7 @@ export default function Home() {
 
         <a href="https://www.linkedin.com/in/preetlakra/" target="_blank"> <img className='w-8 lg:w-12' src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin"  /> </a> 
         
-        <a href="https://twitter.com/notbeamn/" target="_blank"> <img className='w-8 lg:w-12 py-1' src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="twitter" /> </a>
+        <a href="https://twitter.com/notbeamn/" target="_blank"> <img className='w-8 lg:w-12 ' src="https://seeklogo.com/images/T/twitter-x-logo-101C7D2420-seeklogo.com.png?v=638258862800000000" alt="twitter" /> </a>
         
       </div>
       
